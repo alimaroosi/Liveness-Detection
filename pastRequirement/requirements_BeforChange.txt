@@ -1,0 +1,15 @@
+## conda install -c conda-forge  -c pytorch -c dpatel-nec -c anaconda   --file requirements.txt
+albumentations
+#iglovikov_helper_functions # please install by  pip install -U iglovikov_helper_functions
+opencv-python
+pytorch-lightning
+timm
+pytorch #changed from torch
+torchvision
+tqdm
+wandb
+##########
+numpy
+pandas 
+matplotlib 
+seaborn 

@@ -1,0 +1,9 @@
+albumentations
+iglovikov_helper_functions # pip install -U iglovikov_helper_functions
+opencv-python
+pytorch-lightning
+timm
+pytorch #changed from torch
+torchvision
+tqdm
+wandb
