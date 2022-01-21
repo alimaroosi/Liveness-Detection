@@ -30,10 +30,10 @@ from
 https://github.com/AhmetHamzaEmra/Intelegent_Lock  to https://github.com/ternaus/datasouls_antispoof  project
 
 It detect faces
-![](htpst://gitlab.com/pars-tech/liveness-detection/master/Result1.jpg)
+![](https://gitlab.com/pars-tech/liveness-detection/-/blob/master/Result1.jpg)
 
 for each face detect spoofing
-![](htpst://gitlab.com/pars-tech/liveness-detection/master/Result2.jpg)
+![](https://gitlab.com/pars-tech/liveness-detection/-/blob/master/Result2.jpg)
 
 
 ###########################################################
