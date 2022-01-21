@@ -1,3 +1,44 @@
+
+
+please download wight of the model from online URL may it not available later
+url="https://github.com/ternaus/datasouls_antispoof/releases/download/0.0.2/2020-12-02_efficientnet_b3.zip",
+it is in “pre_trained_models.py”
+ 
+Notes: 
+--for long distance for laptop webcam more than 3 meter cannot detect face (face detector from  opencv cv2 face detector)
+--You can disable liveness detectin by set  Level_Liveness0to95=0;
+– -  
+###combine these two codes
+ https://github.com/ternaus/datasouls_antispoof 
+https://github.com/AhmetHamzaEmra/Intelegent_Lock
+### import this two module
+import face_recognition
+from FromLock.livenessmodel import get_liveness_model
+Level_Liveness0to95=0; ### 0 to 0.95  define threshold for liveness 0 no liveness check
+
+
+(install package)
+conda install -c conda-forge face_recognition
+ conda install -c conda-forge tensorflow 
+  conda install -c conda-forge keras 
+
+copy and past following file 
+inside "FromLock" folder paste
+1-livenessmodel.py
+2-folder model
+from 
+https://github.com/AhmetHamzaEmra/Intelegent_Lock  to https://github.com/ternaus/datasouls_antispoof  project
+
+It detect faces
+![](htpst://gitlab.com/pars-tech/liveness-detection/master/Result1.jpg)
+
+for each face detect spoofing
+![](htpst://gitlab.com/pars-tech/liveness-detection/master/Result2.jpg)
+
+
+###########################################################
+################################below for original code##########################################
+
 # Anti spoofing with the Datasouls dataset
 ![](https://habrastorage.org/webt/uv/7u/ws/uv7uwsjkcz732_vhf0opx3zfjrc.jpeg)
 
