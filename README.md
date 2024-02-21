@@ -1,5 +1,9 @@
 
 
+###combine these two codes by Aki Maroosi
+ https://github.com/ternaus/datasouls_antispoof 
+https://github.com/AhmetHamzaEmra/Intelegent_Lock
+
 please download wight of the model from online URL may it not available later
 url="https://github.com/ternaus/datasouls_antispoof/releases/download/0.0.2/2020-12-02_efficientnet_b3.zip",
 it is in “pre_trained_models.py”
@@ -30,10 +34,10 @@ from
 https://github.com/AhmetHamzaEmra/Intelegent_Lock  to https://github.com/ternaus/datasouls_antispoof  project
 
 It detect faces
-![](https://gitlab.com/pars-tech/liveness-detection/-/blob/master/Result1.jpg)
+![](https://github.com/Liveness-Detection/blob/main/Result1.jpg)
 
 for each face detect spoofing
-![](https://gitlab.com/pars-tech/liveness-detection/-/blob/master/Result2.jpg)
+![](https://github.com/liveness-detection/blob/main/Result2.jpg)
 
 
 ###########################################################
