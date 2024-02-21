@@ -34,11 +34,10 @@ from
 https://github.com/AhmetHamzaEmra/Intelegent_Lock  to https://github.com/ternaus/datasouls_antispoof  project
 
 It detect faces
-![](https://github.com/Liveness-Detection/blob/main/Result1.jpg)
+![](https://github.com/alimaroosi/Liveness-Detection/blob/main/Result1.jpg)
 
 for each face detect spoofing
-![](https://github.com/liveness-detection/blob/main/Result2.jpg)
-
+![](https://github.com/alimaroosi/Liveness-Detection/blob/main/Result2.jpg)
 
 ###########################################################
 ################################below for original code##########################################
