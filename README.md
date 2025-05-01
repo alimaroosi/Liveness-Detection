@@ -4,18 +4,18 @@
  https://github.com/ternaus/datasouls_antispoof 
 https://github.com/AhmetHamzaEmra/Intelegent_Lock
 
-please download wight of the model from online URL may it not available later
+please download weight of the model from online URL may it will not available later
 url="https://github.com/ternaus/datasouls_antispoof/releases/download/0.0.2/2020-12-02_efficientnet_b3.zip",
 it is in “pre_trained_models.py”
  
 Notes: 
---for long distance for laptop webcam more than 3 meter cannot detect face (face detector from  opencv cv2 face detector)
+--for long distance for example laptop webcam cannot detect face more than 3 meters (face detector from  opencv cv2 face detector)
 --You can disable liveness detectin by set  Level_Liveness0to95=0;
 – -  
 ###combine these two codes
  https://github.com/ternaus/datasouls_antispoof 
 https://github.com/AhmetHamzaEmra/Intelegent_Lock
-### import this two module
+### import these two modules
 import face_recognition
 from FromLock.livenessmodel import get_liveness_model
 Level_Liveness0to95=0; ### 0 to 0.95  define threshold for liveness 0 no liveness check
